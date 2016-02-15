@@ -1,0 +1,37 @@
+Terminology
+-----------
+2014-09-14
+
+
+Addr:
+  (in USA) Street address, City, State, and Zip code, generally separated by CRLFs
+
+DateTime:
+  a date and a time
+
+DayOfMonth:
+  This is a number from 1 to 31 representing the day of the month.
+
+DayOfWeek:
+  This is the day of the week, which may be expressed in several forms:
+    Spelled out, such as "Sunday", "Monday", "Tuesday", etc.
+    Abbreviated, such as "Sun", "Mon", "Tues", etc.
+    A number from 1 to 7
+
+Duration:
+  length of time
+
+StreetAddr:
+  street address WITHOUT the city, state, and zip code
+
+Time:
+  time of day (not a length of time)
+
+Xable:
+  enable or disable, as appropriate.
+
+PhoneNum:
+  (in USA) telephone number, generally in the format ###-###-####.
+
+EmailAddr:
+  email address

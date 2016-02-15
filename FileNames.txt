@@ -1,0 +1,4 @@
+HTML files:
+
+Use all lowercase letters and numerals, with no special symbols except for - (hyphen), concluding with the extension .html.
+
